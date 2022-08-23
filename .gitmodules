@@ -8,3 +8,13 @@
 	url = https://github.com/lieberinstitute/brainflowprobes
 	shallow = true
 	registered = true
+[submodule "megadepth"]
+	path = megadepth
+	url = https://github.com/lieberinstitute/megadepth
+	shallow = true
+	registered = true
+[submodule "recount3"]
+	path = recount3
+	url = https://github.com/lieberinstitute/recount3
+	shallow = true
+	registered = true

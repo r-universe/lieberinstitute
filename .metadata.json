@@ -1,5 +1,11 @@
 [
   {
     "package": "brainflowprobes"
+  },
+  {
+    "package": "megadepth"
+  },
+  {
+    "package": "recount3"
   }
 ]
