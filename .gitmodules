@@ -13,8 +13,18 @@
 	url = https://github.com/lieberinstitute/megadepth
 	shallow = true
 	registered = true
+[submodule "qsvaR"]
+	path = qsvaR
+	url = https://github.com/lieberinstitute/qsvar
+	shallow = true
+	registered = true
 [submodule "recount3"]
 	path = recount3
 	url = https://github.com/lieberinstitute/recount3
+	shallow = true
+	registered = true
+[submodule "TREG"]
+	path = TREG
+	url = https://github.com/lieberinstitute/treg
 	shallow = true
 	registered = true
