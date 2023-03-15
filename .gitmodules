@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "TREG"]
-	path = TREG
-	url = https://github.com/lieberinstitute/treg
+[submodule "brainflowprobes"]
+	path = brainflowprobes
+	url = https://github.com/lieberinstitute/brainflowprobes
 	shallow = true
 	registered = true
 [submodule "megadepth"]
@@ -18,13 +18,13 @@
 	url = https://github.com/lieberinstitute/qsvar
 	shallow = true
 	registered = true
-[submodule "brainflowprobes"]
-	path = brainflowprobes
-	url = https://github.com/lieberinstitute/brainflowprobes
-	shallow = true
-	registered = true
 [submodule "recount3"]
 	path = recount3
 	url = https://github.com/lieberinstitute/recount3
+	shallow = true
+	registered = true
+[submodule "TREG"]
+	path = TREG
+	url = https://github.com/lieberinstitute/treg
 	shallow = true
 	registered = true

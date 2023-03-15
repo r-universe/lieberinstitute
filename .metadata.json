@@ -1,6 +1,6 @@
 [
   {
-    "package": "TREG"
+    "package": "brainflowprobes"
   },
   {
     "package": "megadepth"
@@ -9,9 +9,9 @@
     "package": "qsvaR"
   },
   {
-    "package": "brainflowprobes"
+    "package": "recount3"
   },
   {
-    "package": "recount3"
+    "package": "TREG"
   }
 ]
