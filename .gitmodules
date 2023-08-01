@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TREG"]
+	path = TREG
+	url = https://github.com/lieberinstitute/treg
 [submodule "brainflowprobes"]
 	path = brainflowprobes
 	url = https://github.com/lieberinstitute/brainflowprobes
@@ -14,6 +17,3 @@
 [submodule "recount3"]
 	path = recount3
 	url = https://github.com/lieberinstitute/recount3
-[submodule "TREG"]
-	path = TREG
-	url = https://github.com/lieberinstitute/treg
